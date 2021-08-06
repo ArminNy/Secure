@@ -23,9 +23,3 @@ cd Secure && cd secure && screen ./launch
 cd Secure && cd apisecure && chmod +x launch.sh && screen ./launch.sh
 
 -------------
-
-اموزش به صورت ویدیو در کانال
-
--------------
-
-@learn_cli_bot :|
